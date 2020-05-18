@@ -1,5 +1,5 @@
 # Co to jest?
-Skrypt `tsp.py` znajdujący optymalną trasę komiwojażera dla 51 miast w Polsce, na potrzeby artykułu w miesięczniku Delta
+Skrypt `tsp.py` znajdujący optymalną trasę komiwojażera dla 51 miast w Polsce, na potrzeby [artykułu w miesięczniku Delta](http://www.deltami.edu.pl/temat/informatyka/algorytmy/2020/01/27/Problem-komiwojazera-w-praktyce/)
 
 # Wymagania
 
